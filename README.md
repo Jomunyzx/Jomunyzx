@@ -1,7 +1,5 @@
 # About Me
 
-![banner](https://i.imgur.com/rEOu99C.png)
-
 Greetings,
 
 I'm H4ndshake, a cybersecurity enthusiast currently studying at SSPŠ. My passion lies in exploring the intricate world of cybersecurity, and I'm adept at leveraging various programming languages and tools to fortify digital infrastructures.
