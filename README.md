@@ -6,7 +6,7 @@ I'm H4ndshake, a cybersecurity enthusiast currently studying at SSPŠ. My passio
 
 ## Skills
 
-- **Programming Languages**: Python, C#, SQL, Other Languages
+- **Programming Languages**: Python, C#, Other Languages
 - **Operating Systems**: Arch Hyprland, Windont 10
 - **Cybersecurity Interests**: Cryptography, Network Security, Forensics
 - **Cerificates**: Certified UwU girl, 1# and 3# place at [robotic day](https://roboticday.org/2024).
