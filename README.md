@@ -1,6 +1,6 @@
 # About Me
 
-![Profile Banner]([https://example.com/profile_banner.png](https://i.imgur.com/rEOu99C.png))
+![banner](https://i.imgur.com/rEOu99C.png)
 
 Greetings,
 
