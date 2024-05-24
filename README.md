@@ -4,6 +4,7 @@
  |  __  |__   _| '_ \ / _` / __| '_ \ / _` | |/ / _ \
  | |  | |  | | | | | | (_| \__ \ | | | (_| |   <  __/
  |_|  |_|  |_| |_| |_|\__,_|___/_| |_|\__,_|_|\_\___|`
+ nothing is perfect, not even this ascii art.
                                                      
 # About Me
 
@@ -13,7 +14,7 @@ I'm H4ndshake, a cybersecurity enthusiast currently studying at SSPŠ. My passio
 
 ## Skills
 
-- **Programming Languages**: Python, C#, Other Languages
+- **Programming Languages**: Python, C#, Lua and other languages..
 - **Operating Systems**: Arch Hyprland, Windont 10
 - **Cybersecurity Interests**: Cryptography, Network Security, Forensics
 - **Cerificates**: Certified UwU girl, 1# and 3# place at [robotic day](https://roboticday.org/2024).
